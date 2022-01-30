@@ -1,0 +1,8 @@
+name: ScoreboardTest
+main: net.iceblaze.ScoreboardTest.ScoreboardTest
+author: FrostTaco
+version: 1.0.0
+api-version: 1.13
+commands:
+  togglesb:
+    description: Toggles the scoreboard
